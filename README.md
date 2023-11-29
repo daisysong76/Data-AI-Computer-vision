@@ -1,2 +1,2 @@
 # Data-AI-Computer-vision
-eee
+I will do some self projects later
